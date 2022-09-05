@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Andrew Caleb Watts
  */
 
 public class Class1 {
